@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark">  
-  <img  alt="Nirav186's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Nirav186?cardType=level&theme=dark" />  </a>
+[![Nirav's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nirav186?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
 </br></br></br>
 ![I prefer to use](https://github-readme-stats.vercel.app/api/top-langs?username=Nirav186&show_icons=true&theme=dark&layout=compact)
 </br></br></br>
