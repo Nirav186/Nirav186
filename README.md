@@ -1,4 +1,17 @@
-### Hey, I'm Nirav 👋
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nirav186&label=Profile%20views&color=0e75b6&style=flat)
+
+# Hey, I'm Nirav 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F52FF&width=600&lines=Senior+Android+Developer;Kotlin+%26+Jetpack+Compose;Compose+Multiplatform+enthusiast;Mentor%2C+shipper%2C+code-deleter)](https://git.io/typing-svg)
+
+![Open to Work](https://img.shields.io/badge/Open_to-Remote_&_Freelance-2EA44F?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based_in-Surat,_India-blue?style=for-the-badge)
+
+</div>
+
+---
 
 I'm a **Senior Android Developer** based in Surat, India, with **5+ years** of professional experience building mobile apps in **Kotlin**, **Jetpack Compose**, and **Compose Multiplatform**.
 
@@ -8,7 +21,15 @@ I care about the stuff that doesn't make it into tutorials: graceful offline sta
 
 ---
 
-#### 🛠 What I work with
+#### 🛠 My stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Kotlin** is my daily driver. **Jetpack Compose** is how I build Android UI, and **Compose Multiplatform** is how I take that same UI across platforms when the product calls for it.
 
@@ -81,7 +102,27 @@ Both **remote senior mobile roles** and **freelance projects** — Android, or C
 
 ---
 
-#### 📫 Reach me
+<div align="center">
 
-- **LinkedIn:** [nirav-rangapariya](https://in.linkedin.com/in/nirav-rangapariya-7055251b7)
-- **Email:** [rangapariyanirav@gmail.com](mailto:rangapariyanirav@gmail.com)
+#### 📊 A bit of GitHub activity
+
+![Nirav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirav186&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true)
+
+<sub>Note: most of my production work lives in private company repos, so this is a small slice.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+#### 📫 Let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nirav-rangapariya-7055251b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rangapariyanirav@gmail.com)
+
+</div>
+
+---
+
+<sub>⚡ Fun fact: "Hilt" and "Room" sound like they belong in a Tolkien novel. I will die on this hill.</sub>
